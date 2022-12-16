@@ -1,0 +1,16 @@
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\bin\Debug\net5.0\BattleTank-AdelVanryo.exe
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\bin\Debug\net5.0\BattleTank-AdelVanryo.deps.json
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\bin\Debug\net5.0\BattleTank-AdelVanryo.runtimeconfig.json
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\bin\Debug\net5.0\BattleTank-AdelVanryo.runtimeconfig.dev.json
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\bin\Debug\net5.0\BattleTank-AdelVanryo.dll
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\bin\Debug\net5.0\ref\BattleTank-AdelVanryo.dll
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\bin\Debug\net5.0\BattleTank-AdelVanryo.pdb
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\obj\Debug\net5.0\BattleTank-AdelVanryo.csproj.AssemblyReference.cache
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\obj\Debug\net5.0\BattleTank-AdelVanryo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\obj\Debug\net5.0\BattleTank-AdelVanryo.AssemblyInfoInputs.cache
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\obj\Debug\net5.0\BattleTank-AdelVanryo.AssemblyInfo.cs
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\obj\Debug\net5.0\BattleTank-AdelVanryo.csproj.CoreCompileInputs.cache
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\obj\Debug\net5.0\BattleTank-AdelVanryo.dll
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\obj\Debug\net5.0\ref\BattleTank-AdelVanryo.dll
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\obj\Debug\net5.0\BattleTank-AdelVanryo.pdb
+C:\Users\mvpwa\Desktop\Pemrograman Dasar\BattleTank-AdelVanryo\obj\Debug\net5.0\BattleTank-AdelVanryo.genruntimeconfig.cache

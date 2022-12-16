@@ -1,0 +1,16 @@
+C:\Users\mvpwa\Desktop\4.Enkripsi\obj\Debug\net5.0\4.Enkripsi.csproj.AssemblyReference.cache
+C:\Users\mvpwa\Desktop\4.Enkripsi\obj\Debug\net5.0\4.Enkripsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvpwa\Desktop\4.Enkripsi\obj\Debug\net5.0\4.Enkripsi.AssemblyInfoInputs.cache
+C:\Users\mvpwa\Desktop\4.Enkripsi\obj\Debug\net5.0\4.Enkripsi.AssemblyInfo.cs
+C:\Users\mvpwa\Desktop\4.Enkripsi\obj\Debug\net5.0\4.Enkripsi.csproj.CoreCompileInputs.cache
+C:\Users\mvpwa\Desktop\4.Enkripsi\bin\Debug\net5.0\4.Enkripsi.exe
+C:\Users\mvpwa\Desktop\4.Enkripsi\bin\Debug\net5.0\4.Enkripsi.deps.json
+C:\Users\mvpwa\Desktop\4.Enkripsi\bin\Debug\net5.0\4.Enkripsi.runtimeconfig.json
+C:\Users\mvpwa\Desktop\4.Enkripsi\bin\Debug\net5.0\4.Enkripsi.runtimeconfig.dev.json
+C:\Users\mvpwa\Desktop\4.Enkripsi\bin\Debug\net5.0\4.Enkripsi.dll
+C:\Users\mvpwa\Desktop\4.Enkripsi\bin\Debug\net5.0\ref\4.Enkripsi.dll
+C:\Users\mvpwa\Desktop\4.Enkripsi\bin\Debug\net5.0\4.Enkripsi.pdb
+C:\Users\mvpwa\Desktop\4.Enkripsi\obj\Debug\net5.0\4.Enkripsi.dll
+C:\Users\mvpwa\Desktop\4.Enkripsi\obj\Debug\net5.0\ref\4.Enkripsi.dll
+C:\Users\mvpwa\Desktop\4.Enkripsi\obj\Debug\net5.0\4.Enkripsi.pdb
+C:\Users\mvpwa\Desktop\4.Enkripsi\obj\Debug\net5.0\4.Enkripsi.genruntimeconfig.cache

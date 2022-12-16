@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    
+    <title>Adel Vanryo Page</title>
+</head>
+<body>
+    <div id="App">
+        <div class="container">
+            <h1>To Do List (VueJS)</h1>
+
+            <input type="text" v-model="todo">
+            <input type="submit" value="Add" @click="Functodo">
+
+            <ol>
+                <li v-for="todo in todos"> 
+
+                    {{todo}}
+
+                </li>
+
+            </ol>
+
+        </div>
+    </div>
+    <script>
+        new Vue({
+            el: '#App',
+            data: {
+                todo: '',
+                todos: []
+            },
+            methods: {
+                Functodo() {
+                    this.todos.push(this.todo)
+                }
+            }
+        })
+
+    </script>
+
+</body>
+</html>

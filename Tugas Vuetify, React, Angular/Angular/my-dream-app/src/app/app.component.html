@@ -1,0 +1,4 @@
+<h1>Selamat Datang Di Kelas {{MataKuliah}}!</h1>
+<p *ngIf="MataKuliah != 'Pemrograman Framework'">Mata Kuliah Berhasil Diganti</p>
+<button (click)="GantiMatkul()">Ganti Mata Kuliah</button>
+<router-outlet></router-outlet>

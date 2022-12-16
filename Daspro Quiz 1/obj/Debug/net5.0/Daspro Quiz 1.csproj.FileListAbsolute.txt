@@ -1,0 +1,16 @@
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\obj\Debug\net5.0\Daspro Quiz 1.csproj.AssemblyReference.cache
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\obj\Debug\net5.0\Daspro Quiz 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\obj\Debug\net5.0\Daspro Quiz 1.AssemblyInfoInputs.cache
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\obj\Debug\net5.0\Daspro Quiz 1.AssemblyInfo.cs
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\obj\Debug\net5.0\Daspro Quiz 1.csproj.CoreCompileInputs.cache
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\bin\Debug\net5.0\Daspro Quiz 1.exe
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\bin\Debug\net5.0\Daspro Quiz 1.deps.json
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\bin\Debug\net5.0\Daspro Quiz 1.runtimeconfig.json
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\bin\Debug\net5.0\Daspro Quiz 1.runtimeconfig.dev.json
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\bin\Debug\net5.0\Daspro Quiz 1.dll
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\bin\Debug\net5.0\ref\Daspro Quiz 1.dll
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\bin\Debug\net5.0\Daspro Quiz 1.pdb
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\obj\Debug\net5.0\Daspro Quiz 1.dll
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\obj\Debug\net5.0\ref\Daspro Quiz 1.dll
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\obj\Debug\net5.0\Daspro Quiz 1.pdb
+C:\Users\mvpwa\Desktop\GitBashAdelVanryo\Daspro Quiz 1\obj\Debug\net5.0\Daspro Quiz 1.genruntimeconfig.cache

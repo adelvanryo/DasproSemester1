@@ -1,0 +1,16 @@
+C:\Users\mvpwa\Desktop\1.NameTags\bin\Debug\net5.0\1.NameTags.exe
+C:\Users\mvpwa\Desktop\1.NameTags\bin\Debug\net5.0\1.NameTags.deps.json
+C:\Users\mvpwa\Desktop\1.NameTags\bin\Debug\net5.0\1.NameTags.runtimeconfig.json
+C:\Users\mvpwa\Desktop\1.NameTags\bin\Debug\net5.0\1.NameTags.runtimeconfig.dev.json
+C:\Users\mvpwa\Desktop\1.NameTags\bin\Debug\net5.0\1.NameTags.dll
+C:\Users\mvpwa\Desktop\1.NameTags\bin\Debug\net5.0\ref\1.NameTags.dll
+C:\Users\mvpwa\Desktop\1.NameTags\bin\Debug\net5.0\1.NameTags.pdb
+C:\Users\mvpwa\Desktop\1.NameTags\obj\Debug\net5.0\1.NameTags.csproj.AssemblyReference.cache
+C:\Users\mvpwa\Desktop\1.NameTags\obj\Debug\net5.0\1.NameTags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvpwa\Desktop\1.NameTags\obj\Debug\net5.0\1.NameTags.AssemblyInfoInputs.cache
+C:\Users\mvpwa\Desktop\1.NameTags\obj\Debug\net5.0\1.NameTags.AssemblyInfo.cs
+C:\Users\mvpwa\Desktop\1.NameTags\obj\Debug\net5.0\1.NameTags.csproj.CoreCompileInputs.cache
+C:\Users\mvpwa\Desktop\1.NameTags\obj\Debug\net5.0\1.NameTags.dll
+C:\Users\mvpwa\Desktop\1.NameTags\obj\Debug\net5.0\ref\1.NameTags.dll
+C:\Users\mvpwa\Desktop\1.NameTags\obj\Debug\net5.0\1.NameTags.pdb
+C:\Users\mvpwa\Desktop\1.NameTags\obj\Debug\net5.0\1.NameTags.genruntimeconfig.cache

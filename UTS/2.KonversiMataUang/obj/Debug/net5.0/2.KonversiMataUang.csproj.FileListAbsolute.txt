@@ -1,0 +1,16 @@
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\obj\Debug\net5.0\2.KonversiMataUang.csproj.AssemblyReference.cache
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\obj\Debug\net5.0\2.KonversiMataUang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\obj\Debug\net5.0\2.KonversiMataUang.AssemblyInfoInputs.cache
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\obj\Debug\net5.0\2.KonversiMataUang.AssemblyInfo.cs
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\obj\Debug\net5.0\2.KonversiMataUang.csproj.CoreCompileInputs.cache
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\bin\Debug\net5.0\2.KonversiMataUang.exe
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\bin\Debug\net5.0\2.KonversiMataUang.deps.json
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\bin\Debug\net5.0\2.KonversiMataUang.runtimeconfig.json
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\bin\Debug\net5.0\2.KonversiMataUang.runtimeconfig.dev.json
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\bin\Debug\net5.0\2.KonversiMataUang.dll
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\bin\Debug\net5.0\ref\2.KonversiMataUang.dll
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\bin\Debug\net5.0\2.KonversiMataUang.pdb
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\obj\Debug\net5.0\2.KonversiMataUang.dll
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\obj\Debug\net5.0\ref\2.KonversiMataUang.dll
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\obj\Debug\net5.0\2.KonversiMataUang.pdb
+C:\Users\mvpwa\Desktop\2.KonversiMataUang\obj\Debug\net5.0\2.KonversiMataUang.genruntimeconfig.cache

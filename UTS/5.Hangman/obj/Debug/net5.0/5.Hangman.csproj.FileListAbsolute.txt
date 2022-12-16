@@ -1,0 +1,16 @@
+C:\Users\mvpwa\Desktop\5.Hangman\obj\Debug\net5.0\5.Hangman.csproj.AssemblyReference.cache
+C:\Users\mvpwa\Desktop\5.Hangman\obj\Debug\net5.0\5.Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvpwa\Desktop\5.Hangman\obj\Debug\net5.0\5.Hangman.AssemblyInfoInputs.cache
+C:\Users\mvpwa\Desktop\5.Hangman\obj\Debug\net5.0\5.Hangman.AssemblyInfo.cs
+C:\Users\mvpwa\Desktop\5.Hangman\obj\Debug\net5.0\5.Hangman.csproj.CoreCompileInputs.cache
+C:\Users\mvpwa\Desktop\5.Hangman\bin\Debug\net5.0\5.Hangman.exe
+C:\Users\mvpwa\Desktop\5.Hangman\bin\Debug\net5.0\5.Hangman.deps.json
+C:\Users\mvpwa\Desktop\5.Hangman\bin\Debug\net5.0\5.Hangman.runtimeconfig.json
+C:\Users\mvpwa\Desktop\5.Hangman\bin\Debug\net5.0\5.Hangman.runtimeconfig.dev.json
+C:\Users\mvpwa\Desktop\5.Hangman\bin\Debug\net5.0\5.Hangman.dll
+C:\Users\mvpwa\Desktop\5.Hangman\bin\Debug\net5.0\ref\5.Hangman.dll
+C:\Users\mvpwa\Desktop\5.Hangman\bin\Debug\net5.0\5.Hangman.pdb
+C:\Users\mvpwa\Desktop\5.Hangman\obj\Debug\net5.0\5.Hangman.dll
+C:\Users\mvpwa\Desktop\5.Hangman\obj\Debug\net5.0\ref\5.Hangman.dll
+C:\Users\mvpwa\Desktop\5.Hangman\obj\Debug\net5.0\5.Hangman.pdb
+C:\Users\mvpwa\Desktop\5.Hangman\obj\Debug\net5.0\5.Hangman.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Daspro Quiz 1/1.0.0": {
+        "runtime": {
+          "Daspro Quiz 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Daspro Quiz 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

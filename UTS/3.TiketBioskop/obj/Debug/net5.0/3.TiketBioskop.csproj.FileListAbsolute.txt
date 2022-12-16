@@ -1,0 +1,16 @@
+C:\Users\mvpwa\Desktop\3.TiketBioskop\obj\Debug\net5.0\3.TiketBioskop.csproj.AssemblyReference.cache
+C:\Users\mvpwa\Desktop\3.TiketBioskop\obj\Debug\net5.0\3.TiketBioskop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvpwa\Desktop\3.TiketBioskop\obj\Debug\net5.0\3.TiketBioskop.AssemblyInfoInputs.cache
+C:\Users\mvpwa\Desktop\3.TiketBioskop\obj\Debug\net5.0\3.TiketBioskop.AssemblyInfo.cs
+C:\Users\mvpwa\Desktop\3.TiketBioskop\obj\Debug\net5.0\3.TiketBioskop.csproj.CoreCompileInputs.cache
+C:\Users\mvpwa\Desktop\3.TiketBioskop\bin\Debug\net5.0\3.TiketBioskop.exe
+C:\Users\mvpwa\Desktop\3.TiketBioskop\bin\Debug\net5.0\3.TiketBioskop.deps.json
+C:\Users\mvpwa\Desktop\3.TiketBioskop\bin\Debug\net5.0\3.TiketBioskop.runtimeconfig.json
+C:\Users\mvpwa\Desktop\3.TiketBioskop\bin\Debug\net5.0\3.TiketBioskop.runtimeconfig.dev.json
+C:\Users\mvpwa\Desktop\3.TiketBioskop\bin\Debug\net5.0\3.TiketBioskop.dll
+C:\Users\mvpwa\Desktop\3.TiketBioskop\bin\Debug\net5.0\ref\3.TiketBioskop.dll
+C:\Users\mvpwa\Desktop\3.TiketBioskop\bin\Debug\net5.0\3.TiketBioskop.pdb
+C:\Users\mvpwa\Desktop\3.TiketBioskop\obj\Debug\net5.0\3.TiketBioskop.dll
+C:\Users\mvpwa\Desktop\3.TiketBioskop\obj\Debug\net5.0\ref\3.TiketBioskop.dll
+C:\Users\mvpwa\Desktop\3.TiketBioskop\obj\Debug\net5.0\3.TiketBioskop.pdb
+C:\Users\mvpwa\Desktop\3.TiketBioskop\obj\Debug\net5.0\3.TiketBioskop.genruntimeconfig.cache
